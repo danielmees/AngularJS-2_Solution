@@ -1,0 +1,9 @@
+This solution is operated under node and npm. 
+
+Because the npm package files under the project is too big to upload on Github, only files related to the solution are kept. 
+
+If you want to debug:
+
+Please type "npm install" under the current project folder in Node.js command window to install npm package for setting up the development environment.
+
+After, please type "npm start" to start debug and open the browser.
